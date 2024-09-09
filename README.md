@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Python/Django developer
+Junior Python/Django Developer, continuously learning and improving my skills in Django and web development.
 
 
 ## 🌐 Socials:
